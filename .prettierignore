@@ -5,3 +5,4 @@
 *.env
 .env
 .env*
+# All these are add to ignore form prettier
