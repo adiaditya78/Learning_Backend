@@ -18,7 +18,7 @@ connectDB()
 })
 
 
-
+// CORS - middleware / configuartion
 
 
 
